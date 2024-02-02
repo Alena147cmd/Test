@@ -2,7 +2,7 @@
 -----
 ## Начальная работа с ``GIT``
 -----
-<p align ="center"><img srs="https://зоопарк.екатеринбург.рф/upload/resize_cache/iblock/cf5/8h7ru2yw3si9d9ohc1fliky62jqjtt4e/1920_1800_1/Dzhuna_8657.JPG" width = "400"></p>
+<p align ="center"><img srs="https://rgo.ru/upload/s34web.imageadapter/3391b95c081666cc16ceb5b195d7ccf4/oleg_bogdanov_amurskiy_tigr_592345.jpg" width = "400"></p>
 -----
 <p><a href="https://www.figma.com/">ССЫЛКА</a></p>
 
